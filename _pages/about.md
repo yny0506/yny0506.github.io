@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a ph.D candidate at <a href='http://milab.snu.ac.kr/index.html'>Seoul National University</a>. My research fields are in `Natural Language Processing (NLP)`. Specifically, I'm interested in `AI Safety` and `Explainability` of language models.
+I'm a ph.D. candidate at <a href='http://milab.snu.ac.kr/index.html'>Seoul National University</a>. My research field is `Natural Language Processing (NLP)`. Specifically, I'm interested in `AI Safety` and `Explainability` of language models.
