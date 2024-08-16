@@ -15,7 +15,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Advisor: Prof. Kyomin Jung</span>
 
 
-<span style="font-size:80%">**Ajou University**</span> , <span style="font-size:60%">Suwon, Korea</span>   
+<span style="font-size:80%">**Ajou University**</span> , <span style="font-size:60%">Suwon, Korea</span>  
 <span style="font-size:70%">- B.S. in Eletronic Business and Software</span>
 
 
