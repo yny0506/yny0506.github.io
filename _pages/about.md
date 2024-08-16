@@ -10,13 +10,14 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 ### Education
 
-<span style="font-size:80%">**Seoul National University**</span>, <span style="font-size:60%">Seoul, Korea</span>  
+<span style="font-size:80%">**Seoul National University**</span>, <span style="font-size:60%">(2021.03 ~ 2025.08 (Expected))</span>  
 <span style="font-size:70%">- Ph.D. Candidate in Artificial Intelligence</span>  
 <span style="font-size:70%">- Advisor: Prof. Kyomin Jung</span>
 
 
-<span style="font-size:80%">**Ajou University**</span> , <span style="font-size:60%">Suwon, Korea</span>  
-<span style="font-size:70%">- B.S. in Eletronic Business and Software</span>
+<span style="font-size:80%">**Ajou University**</span> , <span style="font-size:60%">(2015.03 ~ 2019.02)</span>  
+<span style="font-size:70%">- B.S. in Eletronic Business, Business Administration and Software (Triple Degrees)</span>
+<span style="font-size:70%">- Ajou-people Award (College Representative)</span>
 
 
 ### Professional Experiences
@@ -31,4 +32,6 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Working with Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/)</span>  
 <span style="font-size:70%">- Theme: AI Safety, Fairness, Explainability (ACL 2024 accepted)</span>  
 <span style="font-size:70%">- Project: LLM Application (Exaone)</span>
+
+
 
