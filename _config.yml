@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Nakyeong Yang"
-  avatar           : # path of avatar image, e.g. "/assets/mypic.jpg"
+  avatar           : "/assets/mypic.jpg" # path of avatar image, e.g. "/assets/mypic.jpg"
   bio              : "Ph. D. Candidate @ Seoul National University"
   location         : "Seoul, Korea"
   email            :
