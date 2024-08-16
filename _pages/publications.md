@@ -7,7 +7,8 @@ comments: false
 
 
 ### [1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors
-<u>Nakyeong Yang</u>, __Minsung Kim__, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
+<u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
+
 CIKM 2024
 
 ## [2] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination, ACL 2024
