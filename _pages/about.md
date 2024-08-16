@@ -12,7 +12,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 <span style="font-size:80%">**Seoul National University**</span> <span style="font-size:60%">(2021.03 ~ 2025.08)</span>  
 <span style="font-size:70%">- Ph.D. Candidate in Artificial Intelligence</span>  
-<span style="font-size:70%">- Advisor: Prof. Kyomin Jung</span>
+<span style="font-size:70%">- Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>
 
 
 <span style="font-size:80%">**Ajou University**</span> <span style="font-size:60%">(2015.03 ~ 2019.02)</span>  
