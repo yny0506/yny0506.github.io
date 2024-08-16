@@ -121,7 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "yny0506@snu.ac.kr"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      # url: "https://www.linkedin.com/in/nakyeong-yang-4a1a3410b/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,9 +137,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    
 
 # Site Footer
 footer:
