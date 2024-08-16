@@ -319,9 +319,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+      read_time: false
+      comments: false # true
+      share: false
       related: true
+      show_date: true
       
 remote_theme : mmistakes/minimal-mistakes
