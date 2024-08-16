@@ -5,8 +5,8 @@ layout: single
 comments: false
 ---
 
-I’m an NLP Researcher interested in the Explainability and AI Safety for Language models.
-My current research topics are related to Knowledge localization, Fairness and Ethics, and AI Privacy.
+<span style="font-size:70%">I’m an NLP Researcher interested in the Explainability and AI Safety for Language models.
+My current research topics are related to Knowledge localization, Fairness and Ethics, and AI Privacy.</span>  
 
 ### Education
 
