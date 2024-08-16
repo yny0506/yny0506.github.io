@@ -24,12 +24,12 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 **Adobe Research** (2023.02 ~ Present)
 - Collaborate Researcher
-- Remote working with Dr. David Seunghyun Yoon
+- Remote working with [Dr. David Seunghyun Yoon](https://david-yoon.github.io/)
 - Theme: Video Moment Retrieval, Trustworthy AI, Knowledge Unlearning (CIKM 2024 accepted)
 
 **LG AI Research** (2023.09 ~ 2024.02)  
 - Full-time Internship
-- Working with Prof. Honglak Lee
+- Working with Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/)
 - Theme: AI Safety, Fairness, Explainability (ACL 2024 accepted)
 - Project: LLM Application (Exaone)
 
