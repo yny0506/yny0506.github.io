@@ -2,5 +2,5 @@
 main:
   - title: "Home"
     url: https://https://yny0506.github.io/
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
