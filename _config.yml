@@ -320,7 +320,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false # true
+      comments: "" # true
       share: false
       related: true
       show_date: true
