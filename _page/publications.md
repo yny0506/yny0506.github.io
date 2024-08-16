@@ -1,6 +1,6 @@
 ---
 title: "Hi all! I'm OOOOOO👋🏻"
-permalink: /about/
+permalink: /publications/
 layout: single
 comments: false
 ---
