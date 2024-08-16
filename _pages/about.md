@@ -23,7 +23,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">(2023.02 ~ Present)</span>  
 <span style="font-size:70%">- Collaborate Researcher</span>
-<span style="font-size:70%">- Remote working with [Dr. David Seunghyun Yoon](https://david-yoon.github.io/)</span>
+<span style="font-size:70%">- Remote working with Dr. [David Seunghyun Yoon](https://david-yoon.github.io/)</span>
 <span style="font-size:70%">- Theme: Video Moment Retrieval, Trustworthy AI, Knowledge Unlearning (CIKM 2024 accepted)</span>
 
 <span style="font-size:80%">**LG AI Research**</span> <span style="font-size:60%">(2023.09 ~ 2024.02)</span>  
