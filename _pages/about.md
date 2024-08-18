@@ -19,7 +19,9 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- B.S. in Electronic Business, Software and Business Administration (Triple Degrees)</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
   
-###   
+  
+  
+  
 ### Professional Experiences
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">2023.02 ~ Present</span>  
