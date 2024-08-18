@@ -16,16 +16,17 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 
 <span style="font-size:80%">**Ajou University**</span> <span style="font-size:60%">(2015.03 ~ 2019.02)</span>  
-<span style="font-size:70%">- B.S. in Eletronic Business, Business Administration and Software (Triple Degrees)</span>  
-<span style="font-size:70%">- Ajou-people Award (College Representative)</span>
-
+<span style="font-size:70%">- B.S. in Electronic Business, Software and Business Administration (Triple Degrees)</span>  
+<span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
+  
 
 ### Professional Experiences
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">(2023.02 ~ Present)</span>  
-<span style="font-size:70%">- Collaborate Researcher</span>  
+<span style="font-size:70%">- Collaborative Researcher</span>  
 <span style="font-size:70%">- Remote working with Dr. [David Seunghyun Yoon](https://david-yoon.github.io/)</span>  
-<span style="font-size:70%">- Theme: Video Moment Retrieval, Trustworthy AI, Knowledge Unlearning (CIKM 2024 accepted)</span>
+<span style="font-size:70%">- Previous Theme: Video Moment Retrieval, Trustworthy AI (CIKM 2024 accepted)</span>
+<span style="font-size:70%">- Current Theme: Knowledge Unlearning</span>
 
 <span style="font-size:80%">**LG AI Research**</span> <span style="font-size:60%">(2023.09 ~ 2024.02)</span>  
 <span style="font-size:70%">- Full-time Internship</span>  
