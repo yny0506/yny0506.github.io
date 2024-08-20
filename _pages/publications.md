@@ -6,11 +6,11 @@ comments: false
 ---
 
 
-<span style="font-size:60%">**[1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://arxiv.org/pdf/2309.16701.pdf)</span>  
+<span style="font-size:60%">**[1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [CIKM 2024](https://cikm2024.org/)</span>
 
-<span style="font-size:60%">**[2] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://arxiv.org/pdf/2311.09627)</span>  
+<span style="font-size:60%">**[2] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://aclanthology.org/2024.acl-long.490/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung  
 [ACL 2024](https://2024.aclweb.org/)
 
@@ -18,7 +18,7 @@ comments: false
 <span style="font-size:60%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
 [PAKDD 2024 (Oral)](https://pakdd2024.org/)
 
-<span style="font-size:60%">**[4] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning** [[pdf]](https://arxiv.org/pdf/2205.04157v2)</span>  
+<span style="font-size:60%">**[4] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning** [[pdf]](https://aclanthology.org/2023.findings-eacl.43/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Yunah Jang, Hwanhee Lee, Seohyeong Jeong, Kyomin Jung  
 [Findings of the Association for Computational Linguistics: EACL 2023](https://2023.eacl.org/)
 
