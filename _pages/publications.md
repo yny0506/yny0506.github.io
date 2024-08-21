@@ -5,6 +5,7 @@ layout: single
 comments: false
 ---
 
+## Accepted Papers
 
 <span style="font-size:60%">**[1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
@@ -37,3 +38,13 @@ comments: false
 <span style="font-size:60%">**[8] RABERT: Relation-Aware BERT for Target-Oriented Opinion Words Extraction** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3459637.3482165)</span>  
 <span style="font-size:60%">Taegwan Kang, Minwoo Lee, <u>Nakyeong Yang</u>, Kyomin Jung  
 [CIKM 2021](https://www.cikm2021.org/)
+
+
+
+## ArXiv
+
+<span style="font-size:60%">**[1] Persona is a Double-edged Sword: Enhancing the Zero-shot Reasoning by Ensembling the Role-playing and Neutral Prompts** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
+<span style="font-size:60%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
+
+<span style="font-size:60%">**[2] SKIP: Skill-Localized Prompt Tuning for Inference Speed Boost-Up** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
+<span style="font-size:60%"><u>Nakyeong Yang</u>, Junseok Kim, Jiwon Moon, Yunah Jang, Kyomin Jung  
