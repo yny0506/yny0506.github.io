@@ -18,7 +18,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 
 
 <span style="font-size:80%">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
-<span style="font-size:70%">- B.S. in Electronic Business, Software and Business Administration (Triple Degrees)</span>  
+<span style="font-size:70%">- B.S. in Electronic Business, Software and B.A. in Business Administration (Triple Degrees)</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
 <br>
 <hr>  
