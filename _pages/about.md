@@ -8,7 +8,7 @@ comments: false
 <span style="font-size:70%">I’m an NLP Researcher interested in the Explainability and AI Safety for Language models.
 My current research topics are related to Knowledge localization, Fairness and Ethics, and AI Privacy.</span>  
 <br>
-<hr width="100%" color="black" size="4px" />
+<hr width="100%" color="black" size="4px" />  
 
 ### Education
 
@@ -21,7 +21,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- B.S. in Electronic Business, Software and B.A. in Business Administration (Triple Degrees)</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
 <br>
-<hr width="100%" color="black" size="4px" />
+<hr width="100%" color="black" size="4px" />  
   
   
 ### Professional Experiences
@@ -38,9 +38,9 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Theme: AI Safety, Fairness, Explainability (ACL 2024 accepted)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
 <span style="font-size:70%">- Project: LLM Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
 <br>
-<hr width="100%" color="black" size="4px" />
-
-
+<hr width="100%" color="black" size="4px" />  
+  
+  
 ### Mentoring Experiences
 
 <span style="font-size:70%">- Hyukhun Koh (Ph.D. Student at Seoul National University)</span>  
