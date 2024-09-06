@@ -19,7 +19,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- B.S. in Electronic Business, Software and Business Administration (Triple Degrees)</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
 <br>
-  
+<hr>  
   
   
 ### Professional Experiences
@@ -36,7 +36,7 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Theme: AI Safety, Fairness, Explainability (ACL 2024 accepted)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
 <span style="font-size:70%">- Project: LLM Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
 <br>
-
+<hr>
 
 ### Mentoring Experiences
 
