@@ -19,7 +19,6 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- B.S. in Electronic Business, Software and Business Administration (Triple Degrees)</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
 <br>
-<br>
   
   
   
@@ -37,15 +36,15 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Theme: AI Safety, Fairness, Explainability (ACL 2024 accepted)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
 <span style="font-size:70%">- Project: LLM Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
 <br>
-<br>
 
 
 ### Mentoring Experiences
 
-<span style="font-size:70%">- Hyukhun Koh (M.S. at Seoul National University)</span>  
+<span style="font-size:70%">- Hyukhun Koh (Ph.D. Student at Seoul National University)</span>  
+<span style="font-size:70%">- Haesung Pyun (Ph.D. Student at Seoul National University)</span>  
 <span style="font-size:70%">- Jahyun Koo (Ph.D. Student at Seoul National University)</span>  
 <span style="font-size:70%">- Minsung Kim (Ph.D. Student at Seoul National University)</span>  
-<span style="font-size:70%">- Kyeongman Park (M.S. Student at Seoul National University)</span>  
+<span style="font-size:70%">- Kyeongman Park (M.S. Student at Seoul National University)</span>   
 <span style="font-size:70%">- Jiwon Moon (M.S. Student at Seoul National University)</span>  
 <span style="font-size:70%">- Junseok Kim (B.S. Student at Pohang University of Science and Technology)</span>  
 
