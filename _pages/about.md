@@ -51,5 +51,3 @@ My current research topics are related to Knowledge localization, Fairness and E
 <span style="font-size:70%">- Jiwon Moon (M.S. Student at Seoul National University)</span>  
 <span style="font-size:70%">- Junseok Kim (B.S. Student at Pohang University of Science and Technology)</span>  
 <br>
-<hr width="100%" color="gray" size="4px" />  
-
