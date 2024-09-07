@@ -5,7 +5,7 @@ layout: single
 comments: false
 ---
 
-<span style="font-size:70%">I’m an NLP Researcher interested in the Explainability and AI Safety for Language models.
+<span style="font-size:70%">I’m a Ph.D. candidate at Seoul National University [(MILAB)](http://milab.snu.ac.kr/). My major is Natural Language Processing (NLP), and I'm interested in the Explainability and AI Safety for Language models.
 My current research topics are related to Knowledge localization, Fairness and Ethics, and AI Privacy.</span>  
 <br>
 
