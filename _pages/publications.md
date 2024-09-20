@@ -9,7 +9,7 @@ comments: false
 
 <span style="font-size:60%">**[1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
-[CIKM 2024](https://cikm2024.org/)</span>
+[CIKM 2024 (Oral)](https://cikm2024.org/)</span>
 
 <span style="font-size:60%">**[2] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://aclanthology.org/2024.acl-long.490/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung  
