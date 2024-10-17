@@ -43,7 +43,7 @@ comments: false
 
 ## ArXiv
 
-<span style="font-size:60%">**[1] Persona is a Double-edged Sword: Enhancing the Zero-shot Reasoning by Ensembling the Role-playing and Neutral Prompts** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
+<span style="font-size:60%">**[1] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
 <span style="font-size:60%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
 
 <span style="font-size:60%">**[2] Knowledge-localized Unlearning for Faithful Forgetting in Language Models**</span>  
