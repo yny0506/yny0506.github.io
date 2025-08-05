@@ -7,6 +7,10 @@ comments: false
 
 ## Accepted Papers
 
+<span style="font-size:60%">**[1] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time**</span>  
+<span style="font-size:60%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
+[CIKM 2025](https://cikm2025.org)</span>
+
 <span style="font-size:60%">**[1] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [CIKM 2024 (Oral)](https://cikm2024.org/)</span>
