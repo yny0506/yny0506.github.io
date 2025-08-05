@@ -53,6 +53,3 @@ comments: false
 <span style="font-size:60%">**[2] Knowledge-localized Unlearning for Faithful Forgetting in Language Models**</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung
 
-<span style="font-size:60%">**[3] Skeleton: A New Framework for Accelerating Language Models via Task Neuron Localized Prompt Tuning** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
-<span style="font-size:60%"><u>Nakyeong Yang</u>, Junseok Kim, Jiwon Moon, Yunah Jang, Kyomin Jung  
-
