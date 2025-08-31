@@ -9,7 +9,7 @@ comments: false
 
 <span style="font-size:60%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
-[EMNLP 2025](https://2025.emnlp.org)</span>
+[EMNLP 2025](https://2025.emnlp.org)</span>  
 <a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="color:#DB3C21;font-size:60%">Joint work with Adobe Research</a>
 
 <span style="font-size:60%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
@@ -22,12 +22,12 @@ comments: false
 
 <span style="font-size:60%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
-[CIKM 2024 (Oral)](https://cikm2024.org/)</span>
+[CIKM 2024 (Oral)](https://cikm2024.org/)</span>  
 <a href="https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/" style="color:#DB3C21;font-size:60%">Joint work with Adobe Research</a>
 
 <span style="font-size:60%">**[7] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://aclanthology.org/2024.acl-long.490/)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung  
-[ACL 2024](https://2024.aclweb.org/)
+[ACL 2024](https://2024.aclweb.org/)</span>  
 <a href="https://www.lgresearch.ai/publication/view?seq=110" style="color:#DB3C21;font-size:60%">Internship at LG AI Research</a>
 
 <span style="font-size:60%">**[6] LongStory: Coherent, Complete and Length Controlled Long story Generation** [[pdf]](https://arxiv.org/abs/2311.15208)</span>  
