@@ -7,7 +7,7 @@ comments: false
 
 ## Accepted Papers
 
-<span style="font-size:60%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
+<span style="font-size:60%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207) <span style="color:red;">[[Joint work with Adobe Research]](https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/)</span></span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>
 
@@ -19,7 +19,7 @@ comments: false
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
 [CIKM 2025](https://cikm2025.org)</span>
 
-<span style="font-size:60%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span>  
+<span style="font-size:60%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838) <span style="color:red;">[[Joint work with Adobe Research]](https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/)</span></span>
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [CIKM 2024 (Oral)](https://cikm2024.org/)</span>
 
