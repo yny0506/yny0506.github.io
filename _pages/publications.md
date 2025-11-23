@@ -68,12 +68,15 @@ comments: false
 
 <span style="font-size:60%">**[5] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha  
+<a style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:60%">**[4] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models** [[pdf]](https://www.arxiv.org/pdf/2510.02370)</span>  
 <span style="font-size:60%">Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha  
+<a style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:60%">**[3] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
 <span style="font-size:60%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
+<a style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:60%">**[2] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
 <span style="font-size:60%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
