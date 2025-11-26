@@ -47,7 +47,7 @@ comments: false
 [Findings of the Association for Computational Linguistics: EACL 2023](https://2023.eacl.org/)</span>  
 
 <span style="font-size:60%">**[4] Multi-View Zero-Shot Open Intent Induction from Dialogues: Multi Domain Batch and Proxy Gradient Transfer** [[pdf]](https://arxiv.org/abs/2303.13099)</span>  
-<span style="font-size:60%">Hyukhun Koh, Haesung Pyun, <u>Nakyeong Yang</u>, Kyomin Jung</span>  
+<span style="font-size:60%">Hyukhun Koh, Haesung Pyun, <u>Nakyeong Yang</u>, Kyomin Jung  
 [SIGDial 2023 Workshop (DSTC 11)](https://dstc11.dstc.community/)</span>  
 
 <span style="font-size:60%">**[3] Deriving Explainable Discriminative Attributes Using Confusion About Counterfactual Class** [[pdf]](https://ieeexplore.ieee.org/document/9747693)</span>  
