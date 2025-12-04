@@ -15,18 +15,18 @@ comments: false
 <span style="font-size:60%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
 [Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)</span>  
 
-<span style="font-size:60%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
+<span style="font-size:60%">**[11] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
+<span style="font-size:60%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
+[CIKM 2025 (Oral)](https://cikm2025.org)</span>
+
+<span style="font-size:60%">**[10] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>  
 <a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:60%">Joint work with Adobe Research</a>
 
-<span style="font-size:60%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
+<span style="font-size:60%">**[9] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
 <span style="font-size:60%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>
-
-<span style="font-size:60%">**[9] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
-<span style="font-size:60%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
-[CIKM 2025](https://cikm2025.org)</span>
 
 <span style="font-size:60%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838)</span>  
 <span style="font-size:60%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
