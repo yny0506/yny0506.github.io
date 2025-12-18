@@ -8,8 +8,8 @@ comments: false
 ## Accepted Papers
 
 <span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
-- <span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
-- [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
+<span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
+[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
 
 <span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
@@ -38,8 +38,8 @@ comments: false
 [ACL 2024](https://2024.aclweb.org/)</span>  
 <a href="https://www.lgresearch.ai/publication/view?seq=110" style="font-size:50%">Internship at LG AI Research</a>
 
-<span style="font-size:60%">**[6] LongStory: Coherent, Complete and Length Controlled Long story Generation** [[pdf]](https://arxiv.org/abs/2311.15208)</span>  
-<span style="font-size:60%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
+<span style="font-size:50%">**[6] LongStory: Coherent, Complete and Length Controlled Long story Generation** [[pdf]](https://arxiv.org/abs/2311.15208)</span>  
+<span style="font-size:50%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
 [PAKDD 2024 (Oral)](https://pakdd2024.org/)</span>
 
 <span style="font-size:50%">**[5] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning** [[pdf]](https://aclanthology.org/2023.findings-eacl.43/)</span>  
