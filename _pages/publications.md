@@ -7,21 +7,21 @@ comments: false
 
 ## Accepted Papers
 
-<span style="font-size:20%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** </span>  
-<span style="font-size:20%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
+<span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** </span>  
+<span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
 
-<span style="font-size:20%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
-<span style="font-size:20%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
+<span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
+<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
 [Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)</span>  
 
-<span style="font-size:40%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
-<span style="font-size:40%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
+<span style="font-size:50%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
+<span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>  
 <a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:60%">Joint work with Adobe Research</a>
 
-<span style="font-size:40%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
-<span style="font-size:40%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
+<span style="font-size:50%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
+<span style="font-size:50%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>
 
 <span style="font-size:60%">**[9] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
