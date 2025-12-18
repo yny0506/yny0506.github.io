@@ -12,7 +12,7 @@ comments: false
 
 ### Education
 
-<span style="font-size:80%">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2025.08 (expected)</span>  
+<span style="font-size:80%">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2026.02</span>  
 <span style="font-size:70%">- Ph.D. Candidate in Artificial Intelligence</span>  
 <span style="font-size:70%">- Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
 
