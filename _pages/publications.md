@@ -7,8 +7,8 @@ comments: false
 
 ## Accepted Papers
 
-<span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** </span>  
-<span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
+<span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
+<span style="font-size:50%">S. Lee, D. Kim, H. Koh, <u>N. Yang</u>, K. Jung  
 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
 
 <span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
