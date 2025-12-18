@@ -7,8 +7,8 @@ comments: false
 
 ## Accepted Papers
 
-<span style="font-size:50%">**[13] Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung, Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
-<span style="font-size:50%">  
+<span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
+<span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
 
 <span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
@@ -18,7 +18,7 @@ comments: false
 <span style="font-size:50%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>  
-<a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:60%">Joint work with Adobe Research</a>
+<a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:50%">Joint work with Adobe Research</a>
 
 <span style="font-size:50%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
 <span style="font-size:50%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
@@ -31,12 +31,12 @@ comments: false
 <span style="font-size:50%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [CIKM 2024 (Oral)](https://cikm2024.org/)</span>  
-<a href="https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/" style="font-size:60%">Joint work with Adobe Research</a>
+<a href="https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/" style="font-size:50%">Joint work with Adobe Research</a>
 
 <span style="font-size:50%">**[7] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://aclanthology.org/2024.acl-long.490/)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung  
 [ACL 2024](https://2024.aclweb.org/)</span>  
-<a href="https://www.lgresearch.ai/publication/view?seq=110" style="font-size:60%">Internship at LG AI Research</a>
+<a href="https://www.lgresearch.ai/publication/view?seq=110" style="font-size:50%">Internship at LG AI Research</a>
 
 <span style="font-size:60%">**[6] LongStory: Coherent, Complete and Length Controlled Long story Generation** [[pdf]](https://arxiv.org/abs/2311.15208)</span>  
 <span style="font-size:60%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
@@ -68,15 +68,15 @@ comments: false
 
 <span style="font-size:50%">**[5] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</span>  
-<a href="https://www.mpi-sp.org/" style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+<a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:50%">**[4] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models** [[pdf]](https://www.arxiv.org/pdf/2510.02370)</span>  
 <span style="font-size:50%">Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</span>  
-<a href="https://www.mpi-sp.org/" style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+<a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:50%">**[3] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
 <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha</span>  
-<a href="https://www.mpi-sp.org/" style="font-size:60%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+<a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
 <span style="font-size:50%">**[2] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
