@@ -28,7 +28,7 @@ comments: false
 <span style="font-size:80%">**Max Planck Institute for Security and Privacy**</span> <span style="font-size:60%">2025.08 ~ 2025.10</span>  
 <span style="font-size:70%">- Research Internship</span>  
 <span style="font-size:70%">- Working with Prof. [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
-<span style="font-size:70%">- Research area: Harmful Knowledge Unlearning (ICLR 2025 submitted)</span>  
+<span style="font-size:70%">- Research area #1: Harmful Knowledge Unlearning (ICLR 2026 submitted)</span>  
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">2023.02 ~ Present</span>  
 <span style="font-size:70%">- Collaborative Researcher</span>  
