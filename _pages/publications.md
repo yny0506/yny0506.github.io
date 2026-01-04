@@ -8,7 +8,8 @@ comments: false
 ## Accepted Papers
 
 <span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
-<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
+<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>  
+[Findings of the Association for Computational Linguistics: EACL 2026](https://2026.eacl.org/)</span>  
 
 <span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
 <span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
