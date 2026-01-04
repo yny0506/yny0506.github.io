@@ -7,6 +7,9 @@ comments: false
 
 ## Accepted Papers
 
+<span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
+<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
+
 <span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
 <span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
 [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
@@ -66,20 +69,17 @@ comments: false
 
 ## ArXiv
 
-<span style="font-size:50%">**[5] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
+<span style="font-size:50%">**[4] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
-<span style="font-size:50%">**[4] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models** [[pdf]](https://www.arxiv.org/pdf/2510.02370)</span>  
+<span style="font-size:50%">**[3] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models** [[pdf]](https://www.arxiv.org/pdf/2510.02370)</span>  
 <span style="font-size:50%">Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
-<span style="font-size:50%">**[3] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
+<span style="font-size:50%">**[2] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
 <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
-
-<span style="font-size:50%">**[2] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
-<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
 
 <span style="font-size:50%">**[1] Rethinking Post-Unlearning Behavior of Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2506.02541)</span>  
 <span style="font-size:50%">Minsung Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
