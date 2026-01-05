@@ -9,7 +9,7 @@ comments: false
 
 <span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>  
-[Findings of the Association for Computational Linguistics: EACL 2026](https://2026.eacl.org/)</span>  
+[EACL 2026 Findings](https://2026.eacl.org/)</span>  
 
 <span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
 <span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
@@ -48,7 +48,7 @@ comments: false
 
 <span style="font-size:50%">**[5] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning** [[pdf]](https://aclanthology.org/2023.findings-eacl.43/)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Yunah Jang, Hwanhee Lee, Seohyeong Jeong, Kyomin Jung  
-[Findings of the Association for Computational Linguistics: EACL 2023](https://2023.eacl.org/)</span>
+[EACL 2023 Findings](https://2023.eacl.org/)</span>
 
 <span style="font-size:50%">**[4] Multi-View Zero-Shot Open Intent Induction from Dialogues: Multi Domain Batch and Proxy Gradient Transfer** [[pdf]](https://arxiv.org/abs/2303.13099)</span>  
 <span style="font-size:50%">Hyukhun Koh, Haesung Pyun, <u>Nakyeong Yang</u>, Kyomin Jung  
