@@ -7,7 +7,7 @@ comments: false
 
 <span style="font-size:70%">I’m a Ph.D. candidate at Seoul National University [(MILAB)](http://milab.snu.ac.kr/). My research focuses on Natural Language Processing (NLP) and Interpretable & Safe AI.
 <br>
-**CV:** [Link](https://drive.google.com/file/d/1ZvHrgFcZwSkAmBrmhTyasZwA3WwzeU09/view?usp=sharing)</span>
+**CV:** [Link](https://drive.google.com/file/d/15f5NoujNWU5TM-YRQzdf7G-MfMSbjxVY/view?usp=sharing)</span>
 <br>
 
 ### Education
