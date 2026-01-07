@@ -70,6 +70,9 @@ comments: false
 
 ## ArXiv
 
+<span style="font-size:50%">**[5] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning** [[pdf]](https://arxiv.org/pdf/2601.02970)</span>  
+<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</span>  
+
 <span style="font-size:50%">**[4] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
