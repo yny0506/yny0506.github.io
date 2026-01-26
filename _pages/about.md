@@ -7,7 +7,7 @@ comments: false
 
 <span style="font-size:70%">I’m a Ph.D. candidate at Seoul National University [(MILAB)](http://milab.snu.ac.kr/). My research focuses on Natural Language Processing (NLP) and Interpretable & Safe AI.
 <br>
-**CV:** [Link](https://drive.google.com/file/d/15f5NoujNWU5TM-YRQzdf7G-MfMSbjxVY/view?usp=sharing)</span>
+**CV:** [Link](https://drive.google.com/file/d/1Hk0N8xlMN9JaTOfD0UOurPhwdpcfU7Eo/view?usp=sharing)</span>
 <br>
 
 ### Education
@@ -28,7 +28,8 @@ comments: false
 <span style="font-size:80%">**Max Planck Institute for Security and Privacy**</span> <span style="font-size:60%">2025.08 ~ 2025.10</span>  
 <span style="font-size:70%">- Research Internship</span>  
 <span style="font-size:70%">- Working with Prof. [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
-<span style="font-size:70%">- Research area #1: Harmful Knowledge Unlearning (ICLR 2026 submitted)</span>  
+<span style="font-size:70%">- Research area #1: Harmful Knowledge Unlearning (ICLR 2026 accepted)</span>  
+<span style="font-size:70%">- Research area #2: LLM Pretraining (ICLR 2026 accepted)</span>  
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">2023.02 ~ Present</span>  
 <span style="font-size:70%">- Collaborative Researcher</span>  
