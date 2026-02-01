@@ -5,15 +5,20 @@ layout: single
 comments: false
 ---
 
+.each_div {
+  line-height: 1.1;
+  margin-bottom: 10px;
+}
+
 ## Accepted Papers
-<div style="line-height:0.8; margin-bottom:8px;">
+<div class="each_div">
   <span style="font-size:60%;"><strong>[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning</strong> <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
   <span style="font-size:50%"><i><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i>i></span><br>  
   <a href="https://iclr.cc/" style="font-size:50%"><strong>ICLR 2026</strong></a><br>
   <a href="https://www.mpi-sp.org/" style="font-size:50%"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
-<div style="line-height:1.5; margin-bottom:15px;">
+<div style="line-height:1.1; margin-bottom:8px;">
   <span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
   <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
   [ICLR 2026](https://iclr.cc/)</span>  
