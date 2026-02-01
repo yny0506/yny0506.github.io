@@ -8,17 +8,28 @@ comments: false
   <style>
     .each_div {
       line-height: 0.9;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
+    }
+
+    .title {
+      font-size: 60%;
+      font-style: bold;
+    }
+
+    .content {
+      font-size: 50%;
     }
   </style>
 </head>
 
+
+
 ## Accepted Papers
 <div class="each_div">
-  <span style="font-size:60%;"><strong>[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning</strong> <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
-  <span style="font-size:50%"><i><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
-  <a href="https://iclr.cc/" style="font-size:50%"><strong>ICLR 2026</strong></a><br>
-  <a href="https://www.mpi-sp.org/" style="font-size:50%"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
+  <span class="title"><strong>[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning</strong> <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
+  <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
+  <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
 <div style="line-height:1.1; margin-bottom:8px;">
