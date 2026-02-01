@@ -28,19 +28,17 @@ comments: false
 <span style="font-size:80%">**Max Planck Institute for Security and Privacy**</span> <span style="font-size:60%">2025.08 ~ 2025.10</span>  
 <span style="font-size:70%">- Research Internship</span>  
 <span style="font-size:70%">- Working with Prof. [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
-<span style="font-size:70%">- Research area #1: Harmful Knowledge Unlearning (ICLR 2026 accepted)</span>  
-<span style="font-size:70%">- Research area #2: LLM Pretraining (ICLR 2026 accepted)</span>  
+<span style="font-size:70%">- Research area: AI Safety (ICLR 2026) and Pretraining (ICLR 2026)</span>  
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">2023.02 ~ Present</span>  
 <span style="font-size:70%">- Collaborative Researcher</span>  
 <span style="font-size:70%">- Remote working with Dr. [David Seunghyun Yoon](https://david-yoon.github.io/)</span>  
-<span style="font-size:70%">- Research area #1: Video Moment Retrieval, Trustworthy AI (CIKM 2024 accepted)</span>  
-<span style="font-size:70%">- Research area #2: Harmful Knowledge Unlearning (EMNLP 2025 accepted)</span>  
+<span style="font-size:70%">- Research area: Multi-modality (CIKM 2024) and AI Safety (EMNLP 2025)</span>  
 
 <span style="font-size:80%">**LG AI Research**</span> <span style="font-size:60%">2023.09 ~ 2024.02</span>  
 <span style="font-size:70%">- Research Internship</span>  
 <span style="font-size:70%">- Working with Dr. [Stanley Jungkyu Choi](https://scholar.google.co.kr/citations?user=-oztA_QAAAAJ&hl=en) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/)</span>  
-<span style="font-size:70%">- Research area: AI Safety, Explainability (ACL 2024 accepted)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
+<span style="font-size:70%">- Research area: AI Safety (ACL 2024)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
 <span style="font-size:70%">- Project: LLM Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
 <br>
   
