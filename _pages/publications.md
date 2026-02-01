@@ -6,13 +6,12 @@ comments: false
 ---
 
 ## Accepted Papers
-
-<span style="font-size:70%">**[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
+<span style="font-size:50%; line-height:1.2; margin:0;">**[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha  
-[ICLR 2026](https://iclr.cc/)</span>  
+[**ICLR 2026**](https://iclr.cc/)</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
 
-<span style="font-size:70%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
+<span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
 <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
 [ICLR 2026](https://iclr.cc/)</span>  
 <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
@@ -29,7 +28,7 @@ comments: false
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
 [IJCNLP-AACL 2025 Findings](https://2025.aaclnet.org/)</span>  
 
-<span style="font-size:50%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207)</span>  
+<span style="font-size:50%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207) [[data]](https://github.com/yny0506/faithun)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [EMNLP 2025](https://2025.emnlp.org)</span>  
 <a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:50%">Joint work with Adobe Research</a>
@@ -42,7 +41,7 @@ comments: false
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
 [CIKM 2025 (Oral)](https://cikm2025.org)</span>
 
-<span style="font-size:50%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838)</span>  
+<span style="font-size:50%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838) [[data]](https://github.com/yny0506/Massive-Videos-Moment-Retrieval)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
 [CIKM 2024 (Oral)](https://cikm2024.org/)</span>  
 <a href="https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/" style="font-size:50%">Joint work with Adobe Research</a>
