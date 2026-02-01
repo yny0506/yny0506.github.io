@@ -70,32 +70,43 @@ comments: false
   <a class="content" href="https://2025.emnlp.org"><strong>EMNLP 2025</strong></a><br>
 </div>
 
+<div class="each_div">
+  <span class="title"><strong>[9] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time <a href="https://arxiv.org/abs/2404.11916">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://cikm2025.org"><strong>CIKM 2025 (Oral)</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[9] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
-[CIKM 2025 (Oral)](https://cikm2025.org)</span>
+<div class="each_div">
+  <span class="title"><strong>[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors <a href="https://dl.acm.org/doi/10.1145/3627673.3679838">[pdf]</a> <a href="https://github.com/yny0506/Massive-Videos-Moment-Retrieval">[data]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://cikm2024.org/"><strong>CIKM 2024 (Oral)</strong></a><br>
+  <a class="content" href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/"><strong>Joint work with Adobe Research</strong></a>
+</div>
 
-<span style="font-size:50%">**[8] MVMR: A New Framework for Evaluating Faithfulness of Video Moment Retrieval against Multiple Distractors** [[pdf]](https://dl.acm.org/doi/10.1145/3627673.3679838) [[data]](https://github.com/yny0506/Massive-Videos-Moment-Retrieval)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
-[CIKM 2024 (Oral)](https://cikm2024.org/)</span>  
-<a href="https://research.adobe.com/publication/mvmr-a-new-framework-for-evaluating-faithfulness-of-video-moment-retrieval-against-multiple-distractors/" style="font-size:50%">Joint work with Adobe Research</a>
+<div class="each_div">
+  <span class="title"><strong>[7] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination <a href="https://aclanthology.org/2024.acl-long.490/">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2024.aclweb.org/"><strong>ACL 2024</strong></a><br>
+  <a class="content" href="https://www.lgresearch.ai/publication/view?seq=110"><strong>Internship at LG AI Research</strong></a>
+</div>
 
-<span style="font-size:50%">**[7] Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination** [[pdf]](https://aclanthology.org/2024.acl-long.490/)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Taegwan Kang, Jungkyu Choi, Honglak Lee, Kyomin Jung  
-[ACL 2024](https://2024.aclweb.org/)</span>  
-<a href="https://www.lgresearch.ai/publication/view?seq=110" style="font-size:50%">Internship at LG AI Research</a>
+<div class="each_div">
+  <span class="title"><strong>[6] LongStory: Coherent, Complete and Length Controlled Long story Generation <a href="https://arxiv.org/abs/2311.15208">[pdf]</a></span><br>  
+  <span class="content"><i>Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://pakdd2024.org/"><strong>PAKDD 2024 (Oral)</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[6] LongStory: Coherent, Complete and Length Controlled Long story Generation** [[pdf]](https://arxiv.org/abs/2311.15208)</span>  
-<span style="font-size:50%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
-[PAKDD 2024 (Oral)](https://pakdd2024.org/)</span>
+<div class="each_div">
+  <span class="title"><strong>[5] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning <a href="https://aclanthology.org/2023.findings-eacl.43/">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Yunah Jang, Hwanhee Lee, Seohyeong Jeong, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2023.eacl.org/"><strong>EACL 2023 Findings</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[5] Task-specific Compression for Multi-task Language Models using Attribution-based Pruning** [[pdf]](https://aclanthology.org/2023.findings-eacl.43/)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Yunah Jang, Hwanhee Lee, Seohyeong Jeong, Kyomin Jung  
-[EACL 2023 Findings](https://2023.eacl.org/)</span>
-
-<span style="font-size:50%">**[4] Multi-View Zero-Shot Open Intent Induction from Dialogues: Multi Domain Batch and Proxy Gradient Transfer** [[pdf]](https://arxiv.org/abs/2303.13099)</span>  
-<span style="font-size:50%">Hyukhun Koh, Haesung Pyun, <u>Nakyeong Yang</u>, Kyomin Jung  
-[SIGDial 2023 Workshop (DSTC 11)](https://dstc11.dstc.community/)</span>
+<div class="each_div">
+  <span class="title"><strong>[4] Multi-View Zero-Shot Open Intent Induction from Dialogues: Multi Domain Batch and Proxy Gradient Transfer <a href="https://arxiv.org/abs/2303.13099">[pdf]</a></span><br>  
+  <span class="content"><i>Hyukhun Koh, Haesung Pyun, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://dstc11.dstc.community/"><strong>SIGDial 2023 Workshop (DSTC 11)</strong></a><br>
+</div>
 
 <span style="font-size:50%">**[3] Deriving Explainable Discriminative Attributes Using Confusion About Counterfactual Class** [[pdf]](https://ieeexplore.ieee.org/document/9747693)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Taegwan Kang, Kyomin Jung  
