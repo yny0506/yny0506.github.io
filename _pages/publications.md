@@ -108,17 +108,23 @@ comments: false
   <a class="content" href="https://dstc11.dstc.community/"><strong>SIGDial 2023 Workshop (DSTC 11)</strong></a><br>
 </div>
 
-<span style="font-size:50%">**[3] Deriving Explainable Discriminative Attributes Using Confusion About Counterfactual Class** [[pdf]](https://ieeexplore.ieee.org/document/9747693)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Taegwan Kang, Kyomin Jung  
-[ICASSP 2022 (Oral)](https://2022.ieeeicassp.org/)</span>
+<div class="each_div">
+  <span class="title"><strong>[3] Deriving Explainable Discriminative Attributes Using Confusion About Counterfactual Class <a href="https://ieeexplore.ieee.org/document/9747693">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Taegwan Kang, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2022.ieeeicassp.org/"><strong>ICASSP 2022 (Oral)</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[2] Semantic and Explainable Research-related Recommendation System based on Semi-supervised Methodology using BERT and LDA models** [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421015232)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Jeongje Jo, Myeongjun Jeon, Wooju Kim, Juyoung Kang  
-[Expert Systems with Applications (2022)](https://www.sciencedirect.com/journal/expert-systems-with-applications)</span>
+<div class="each_div">
+  <span class="title"><strong>[2] Semantic and Explainable Research-related Recommendation System based on Semi-supervised Methodology using BERT and LDA models <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417421015232">[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Jeongje Jo, Myeongjun Jeon, Wooju Kim, Juyoung Kang</i></span><br>  
+  <a class="content" href="https://www.sciencedirect.com/journal/expert-systems-with-applications"><strong>Expert Systems with Applications (2022)</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[1] RABERT: Relation-Aware BERT for Target-Oriented Opinion Words Extraction** [[pdf]](https://dl.acm.org/doi/abs/10.1145/3459637.3482165)</span>  
-<span style="font-size:50%">Taegwan Kang, Minwoo Lee, <u>Nakyeong Yang</u>, Kyomin Jung  
-[CIKM 2021](https://www.cikm2021.org/)</span>
+<div class="each_div">
+  <span class="title"><strong>[1] RABERT: Relation-Aware BERT for Target-Oriented Opinion Words Extraction <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482165">[pdf]</a></span><br>  
+  <span class="content"><i>Taegwan Kang, Minwoo Lee, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://www.cikm2021.org/"><strong>CIKM 2021</strong></a><br>
+</div>
 
 
 
