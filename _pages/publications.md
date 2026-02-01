@@ -10,7 +10,7 @@ comments: false
   <span style="font-size:50%;">**[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
   <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha  
   [**ICLR 2026**](https://iclr.cc/)</span>  
-  <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+  <a href="https://www.mpi-sp.org/" style="font-size:50%">**Internship at Max Planck Institute for Security and Privacy (MPI-SP)**</a>
 </div>
   
 <span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
