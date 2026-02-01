@@ -130,12 +130,18 @@ comments: false
 
 ## ArXiv
 
-<span style="font-size:50%">**[3] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning** [[pdf]](https://arxiv.org/pdf/2601.02970)</span>  
-<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</span>  
+<div class="each_div">
+  <span class="title"><strong>[3] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning <a href="https://arxiv.org/pdf/2601.02970">[pdf]</a></span><br>  
+  <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</i></span><br>  
+</div>
 
-<span style="font-size:50%">**[2] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models** [[pdf]](https://www.arxiv.org/pdf/2510.02370)</span>  
-<span style="font-size:50%">Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</span>  
-<a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+<div class="each_div">
+  <span class="title"><strong>[2] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models <a href="https://www.arxiv.org/pdf/2510.02370">[pdf]</a></span><br>  
+  <span class="content"><i>Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</i></span><br>  
+  <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
+</div>
 
-<span style="font-size:50%">**[1] Rethinking Post-Unlearning Behavior of Large Vision-Language Models** [[pdf]](https://arxiv.org/abs/2506.02541)</span>  
-<span style="font-size:50%">Minsung Kim, <u>Nakyeong Yang</u>, Kyomin Jung</span>
+<div class="each_div">
+  <span class="title"><strong>[1] Rethinking Post-Unlearning Behavior of Large Vision-Language Models <a href="https://arxiv.org/abs/2506.02541">[pdf]</a></span><br>  
+  <span class="content"><i>Minsung Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+</div>
