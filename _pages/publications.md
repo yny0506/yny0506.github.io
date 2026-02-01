@@ -12,11 +12,13 @@ comments: false
   [**ICLR 2026**](https://iclr.cc/)</span>  
   <a href="https://www.mpi-sp.org/" style="font-size:50%">**Internship at Max Planck Institute for Security and Privacy (MPI-SP)**</a>
 </div>
-  
-<span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
-<span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
-[ICLR 2026](https://iclr.cc/)</span>  
-<a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+
+<div style="line-height:1.5; margin-bottom:15px;">
+  <span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
+  <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
+  [ICLR 2026](https://iclr.cc/)</span>  
+  <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+</div>
 
 <span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
