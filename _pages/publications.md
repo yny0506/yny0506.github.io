@@ -39,13 +39,17 @@ comments: false
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
-<span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
-<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
-[EACL 2026 Findings](https://2026.eacl.org/)</span>  
+<div class="each_div">
+  <span class="title"><strong>[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time</strong> <a href="https://arxiv.org/abs/2601.15708">[pdf]</a></span><br>  
+  <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2026.eacl.org/"><strong>EACL 2026 Findings</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning** [[pdf]](https://arxiv.org/abs/2511.06190)</span>  
-<span style="font-size:50%">Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung  
-[AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)</span>  
+<div class="each_div">
+  <span class="title"><strong>[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning</strong> <a href="https://arxiv.org/abs/2511.06190">[pdf]</a></span><br>  
+  <span class="content"><i>Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="[https://2026.eacl.org/](https://aaai.org/conference/aaai/aaai-26/)"><strong>AAAI 2026</strong></a><br>
+</div>
 
 <span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
 <span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
