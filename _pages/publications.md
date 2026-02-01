@@ -7,7 +7,7 @@ comments: false
 <head>
   <style>
     .each_div {
-      line-height: 0.9;
+      line-height: 0.95;
       margin-bottom: 15px;
     }
 
@@ -32,11 +32,11 @@ comments: false
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
-<div style="line-height:1.1; margin-bottom:8px;">
-  <span style="font-size:50%">**[15] Bilinear relational structure fixes reversal curse and enables consistent model editing** [[pdf]](https://arxiv.org/pdf/2509.21993)</span>  
-  <span style="font-size:50%">Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha  
-  [ICLR 2026](https://iclr.cc/)</span>  
-  <a href="https://www.mpi-sp.org/" style="font-size:50%">Internship at Max Planck Institute for Security and Privacy (MPI-SP)</a>
+<div class="each_div">
+  <span class="title"><strong>[15] Bilinear relational structure fixes reversal curse and enables consistent model editing</strong> <a href="https://arxiv.org/pdf/2509.21993">[pdf]</a></span><br>  
+  <span class="content"><i>Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha</i></span><br>  
+  <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
+  <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
 <span style="font-size:50%">**[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time** </span>  
