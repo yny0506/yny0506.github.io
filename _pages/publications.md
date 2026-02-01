@@ -9,8 +9,8 @@ comments: false
 <div style="line-height:1.4; margin-bottom:8px;">
   <span style="font-size:60%;"><strong>[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning<\strong> <a>[[pdf]](https://arxiv.org/pdf/2509.22263)</a></span>  
   <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha  
-  [<strong>ICLR 2026</strong>strong>](https://iclr.cc/)</span>  
-  <a href="https://www.mpi-sp.org/" style="font-size:50%"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong>strong></a>
+  [<strong>ICLR 2026</strong>](https://iclr.cc/)</span>  
+  <a href="https://www.mpi-sp.org/" style="font-size:50%"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
 <div style="line-height:1.5; margin-bottom:15px;">
