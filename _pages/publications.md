@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Accepted Papers
-<div style="font-size:50%; line-height:1.2; margin-bottom:8px;">
+<div style=line-height:1.2; margin-bottom:8px;">
   <span style="font-size:50%;">**[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning** [[pdf]](https://arxiv.org/pdf/2509.22263)</span>  
   <span style="font-size:50%"><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha  
   [**ICLR 2026**](https://iclr.cc/)</span>  
