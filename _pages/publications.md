@@ -48,21 +48,28 @@ comments: false
 <div class="each_div">
   <span class="title"><strong>[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning</strong> <a href="https://arxiv.org/abs/2511.06190">[pdf]</a></span><br>  
   <span class="content"><i>Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
-  <a class="content" href="[https://2026.eacl.org/](https://aaai.org/conference/aaai/aaai-26/)"><strong>AAAI 2026</strong></a><br>
+  <a class="content" href="https://aaai.org/conference/aaai/aaai-26/"><strong>AAAI 2026</strong></a><br>
 </div>
 
-<span style="font-size:50%">**[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks** [[pdf]](https://arxiv.org/abs/2408.08631)</span>  
-<span style="font-size:50%">Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung  
-[IJCNLP-AACL 2025 Findings](https://2025.aaclnet.org/)</span>  
+<div class="each_div">
+  <span class="title"><strong>[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks</strong> <a href="https://arxiv.org/abs/2408.08631">[pdf]</a></span><br>  
+  <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2025.aaclnet.org/"><strong>IJCNLP-AACL 2025 Findings</strong></a><br>
+</div>
 
-<span style="font-size:50%">**[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge** [[pdf]](https://arxiv.org/abs/2502.19207) [[data]](https://github.com/yny0506/faithun)</span>  
-<span style="font-size:50%"><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung  
-[EMNLP 2025](https://2025.emnlp.org)</span>  
-<a href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/" style="font-size:50%">Joint work with Adobe Research</a>
+<div class="each_div">
+  <span class="title"><strong>[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge</strong> <a href="https://arxiv.org/abs/2502.19207">[pdf]</a> <a href="https://github.com/yny0506/faithun">[data]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2025.emnlp.org"><strong>EMNLP 2025</strong></a><br>
+  <a class="content" href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/"><strong>Joint work with Adobe Research</strong></a>
+</div>
 
-<span style="font-size:50%">**[10] Avoidance Decoding for Diverse Multi-Branch Story Generation**</span>  
-<span style="font-size:50%">Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung  
-[EMNLP 2025](https://2025.emnlp.org)</span>
+<div class="each_div">
+  <span class="title"><strong>[10] Avoidance Decoding for Diverse Multi-Branch Story Generation <a href="https://aclanthology.org/2025.emnlp-main.381/">[pdf]</a></span><br>  
+  <span class="content"><i>Kyeongman Park, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2025.emnlp.org"><strong>EMNLP 2025</strong></a><br>
+</div>
+
 
 <span style="font-size:50%">**[9] Unplug and Play Language Models: Decomposing Experts in Language Models at Inference Time** [[pdf]](https://arxiv.org/abs/2404.11916)</span>  
 <span style="font-size:50%"><u>Nakyeong Yang</u>, Jiwon Moon, Junseok Kim, Yunah Jang, Kyomin Jung  
