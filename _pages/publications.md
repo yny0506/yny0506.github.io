@@ -7,7 +7,7 @@ comments: false
 <head>
   <style>
     .each_div {
-      line-height: 1.1;
+      line-height: 0.9;
       margin-bottom: 10px;
     }
   </style>
