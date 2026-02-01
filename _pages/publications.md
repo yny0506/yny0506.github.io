@@ -13,7 +13,7 @@ comments: false
 
     .title {
       font-size: 60%;
-      font-style: bold;
+      font-style: strong;
     }
 
     .content {
