@@ -26,39 +26,39 @@ comments: false
 
 ## Accepted Papers
 <div class="each_div">
-  <span class="title"><strong>[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning</strong> <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
+  <span class="title">[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
   <span class="content"><i><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
   <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
 <div class="each_div">
-  <span class="title"><strong>[15] Bilinear relational structure fixes reversal curse and enables consistent model editing</strong> <a href="https://arxiv.org/pdf/2509.21993">[pdf]</a></span><br>  
+  <span class="title">[15] Bilinear relational structure fixes reversal curse and enables consistent model editing <a href="https://arxiv.org/pdf/2509.21993">[pdf]</a></span><br>  
   <span class="content"><i>Dong-kyum Kim, Minsung Kim, Jea Kwon, <u>Nakyeong Yang</u>, Meeyoung Cha</i></span><br>  
   <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
 
 <div class="each_div">
-  <span class="title"><strong>[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time</strong> <a href="https://arxiv.org/abs/2601.15708">[pdf]</a></span><br>  
+  <span class="title">[14] Persona Switch: Mixing Distinct Perspectives in Decoding Time <a href="https://arxiv.org/abs/2601.15708">[pdf]</a></span><br>  
   <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://2026.eacl.org/"><strong>EACL 2026 Findings</strong></a><br>
 </div>
 
 <div class="each_div">
-  <span class="title"><strong>[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning</strong> <a href="https://arxiv.org/abs/2511.06190">[pdf]</a></span><br>  
+  <span class="title">[13] Confidence-Guided Stepwise Model Routing for Cost-Efficient Reasoning <a href="https://arxiv.org/abs/2511.06190">[pdf]</a></span><br>  
   <span class="content"><i>Sangmook Lee, Dohyung Kim, Hyukhun Koh, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://aaai.org/conference/aaai/aaai-26/"><strong>AAAI 2026</strong></a><br>
 </div>
 
 <div class="each_div">
-  <span class="title"><strong>[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks</strong> <a href="https://arxiv.org/abs/2408.08631">[pdf]</a></span><br>  
+  <span class="title">[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks <a href="https://arxiv.org/abs/2408.08631">[pdf]</a></span><br>  
   <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://2025.aaclnet.org/"><strong>IJCNLP-AACL 2025 Findings</strong></a><br>
 </div>
 
 <div class="each_div">
-  <span class="title"><strong>[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge</strong> <a href="https://arxiv.org/abs/2502.19207">[pdf]</a> <a href="https://github.com/yny0506/faithun">[data]</a></span><br>  
+  <span class="title">[11] FaithUn: Toward Faithful Forgetting in Language Models by Investigating the Interconnectedness of Knowledge <a href="https://arxiv.org/abs/2502.19207">[pdf]</a> <a href="https://github.com/yny0506/faithun">[data]</a></span><br>  
   <span class="content"><i><u>Nakyeong Yang</u>, Minsung Kim, Seunghyun Yoon, Joongbo Shin, Kyomin Jung</i></span><br>  
   <a class="content" href="https://2025.emnlp.org"><strong>EMNLP 2025</strong></a><br>
   <a class="content" href="https://research.adobe.com/publication/faithun-toward-faithful-forgetting-in-language-models-by-investigating-the-interconnectedness-of-knowledge/"><strong>Joint work with Adobe Research</strong></a>
