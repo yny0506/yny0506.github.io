@@ -13,13 +13,14 @@ comments: false
 ### Education
 
 <span style="font-size:80%">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2026.02</span>  
-<span style="font-size:70%">- Ph.D. Candidate in Artificial Intelligence</span>  
-<span style="font-size:70%">- Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
-<span style="font-size:70%">- Thesis: Knowledge Localization for Efficient and Safe Language Models (Distinguished Ph.D Dissertation Award)</span>  
+<span style="font-size:70%">- Ph.D in Artificial Intelligence</span>  
+<span style="font-size:70%">- Advisor: Professor [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
+<span style="font-size:70%">- Thesis: Knowledge Localization for Efficient and Safe Language Models</span>  
+<span style="font-size:70%">- Distinguished Ph.D Dissertation Award</span>  
 
 
 <span style="font-size:80%">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
-<span style="font-size:70%">- Bachelor’s in Electronic Business, Software, and Business Administration</span>  
+<span style="font-size:70%">- Bachelor’s in Electronic Business, Software, Business Administration</span>  
 <span style="font-size:70%">- Ajou-people Award (College Representative)</span>  
 <br>
   
@@ -28,7 +29,7 @@ comments: false
 
 <span style="font-size:80%">**Max Planck Institute for Security and Privacy**</span> <span style="font-size:60%">2025.08 ~ 2025.10</span>  
 <span style="font-size:70%">- Research Internship</span>  
-<span style="font-size:70%">- Working with Prof. [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
+<span style="font-size:70%">- Working with Professor [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
 <span style="font-size:70%">- Research area: AI Safety (ICLR 2026) and Pretraining (ICLR 2026)</span>  
 
 <span style="font-size:80%">**Adobe Research**</span> <span style="font-size:60%">2023.02 ~ Present</span>  
@@ -38,9 +39,9 @@ comments: false
 
 <span style="font-size:80%">**LG AI Research**</span> <span style="font-size:60%">2023.09 ~ 2024.02</span>  
 <span style="font-size:70%">- Research Internship</span>  
-<span style="font-size:70%">- Working with Dr. [Stanley Jungkyu Choi](https://scholar.google.co.kr/citations?user=-oztA_QAAAAJ&hl=en) and Prof. [Honglak Lee](https://web.eecs.umich.edu/~honglak/)</span>  
+<span style="font-size:70%">- Working with Dr. [Stanley Jungkyu Choi](https://scholar.google.co.kr/citations?user=-oztA_QAAAAJ&hl=en) and Professor [Honglak Lee](https://web.eecs.umich.edu/~honglak/)</span>  
 <span style="font-size:70%">- Research area: AI Safety (ACL 2024)</span> <span style="font-size:40%">2023.09 ~ 2023.12</span>  
-<span style="font-size:70%">- Project: LLM Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
+<span style="font-size:70%">- Project: Large Language Model Application (EXAONE)</span> <span style="font-size:40%">2023.12 ~ 2024.02</span>  
 <br>
   
   
