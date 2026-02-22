@@ -15,6 +15,7 @@ comments: false
 <span style="font-size:80%">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2026.02</span>  
 <span style="font-size:70%">- Ph.D. Candidate in Artificial Intelligence</span>  
 <span style="font-size:70%">- Advisor: Prof. [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
+<span style="font-size:70%">- Thesis: Knowledge Localization for Efficient and Safe Language Models (Distinguished Ph.D Dissertation Award)</span>  
 
 
 <span style="font-size:80%">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
