@@ -27,7 +27,7 @@ comments: false
 ## Accepted Papers
 <div class="each_div">
   <span class="title">[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
-  <span style="color: blue;"><i><u>Nakyeong Yang</u></i>i></span><span class="content"><i>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
+  <span class="content" style="color: blue;"><i><u>Nakyeong Yang</u></i>i></span><span class="content"><i>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
   <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
