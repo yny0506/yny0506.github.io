@@ -21,7 +21,6 @@ comments: false
     }
 
     u {
-      color: black;
       font-weight: 700;
     }
   </style>
