@@ -21,7 +21,8 @@ comments: false
     }
 
     u {
-      color: blue;
+      color: black;
+      font-weight: 700;
     }
   </style>
 </head>
