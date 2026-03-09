@@ -24,6 +24,23 @@ comments: false
 [[CV]](https://drive.google.com/file/d/1g9uGa4ReRbNfZk7sLooyQAqQ6ZfOYoLp/view?usp=sharing) [[Google Scholar]](https://scholar.google.com/citations?user=6de8GGYAAAAJ&hl=ko) [[GitHub]](https://github.com/yny0506) [[LinkedIn]](https://www.linkedin.com/in/nakyeong-yang-4a1a3410b)</span>
 <br>
 
+
+### Education
+
+<span class="first">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2026.02</span>  
+<span class="second">- Ph.D in Artificial Intelligence</span>  
+<span class="second">- Advisor: Professor [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
+<span class="second">- Thesis: Knowledge Localization for Efficient and Safe Language Models</span>  
+<span class="second">- Distinguished Ph.D Dissertation Award</span>  
+
+
+<span class="first">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
+<span class="second">- Bachelor’s in Electronic Business, Software, Business Administration</span>  
+<span class="second">- Ajou-people Award (College Representative)</span>  
+<br>
+  
+
+
   
 ### Professional Experiences
 
@@ -46,19 +63,7 @@ comments: false
   
 
 
-### Education
 
-<span class="first">**Seoul National University**</span> <span style="font-size:60%">2021.03 ~ 2026.02</span>  
-<span class="second">- Ph.D in Artificial Intelligence</span>  
-<span class="second">- Advisor: Professor [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
-<span class="second">- Thesis: Knowledge Localization for Efficient and Safe Language Models</span>  
-<span class="second">- Distinguished Ph.D Dissertation Award</span>  
-
-
-<span class="first">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
-<span class="second">- Bachelor’s in Electronic Business, Software, Business Administration</span>  
-<span class="second">- Ajou-people Award (College Representative)</span>  
-<br>
   
 
 
