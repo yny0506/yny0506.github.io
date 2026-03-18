@@ -56,7 +56,7 @@ comments: false
 </div>
 
 <div class="each_div">
-  <span class="title">[12] Persona is a Double-edged Sword: Mitigating the Negative Impact of Role-playing Prompts in Zero-shot Reasoning Tasks <a href="https://arxiv.org/abs/2408.08631">[pdf]</a></span><br>  
+  <span class="title">[12] Persona is a Double-edged Sword: Persona is a Double-Edged Sword: Rethinking the Impact of Role-play Prompts in Zero-shot Reasoning Tasks <a href="https://arxiv.org/abs/2408.08631">[pdf]</a></span><br>  
   <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://2025.aaclnet.org/"><strong>IJCNLP-AACL 2025 Findings</strong></a><br>
 </div>
