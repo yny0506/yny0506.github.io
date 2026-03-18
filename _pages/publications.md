@@ -140,7 +140,7 @@ comments: false
 </div>
 
 <div class="each_div">
-  <span class="title">[2] Training Dynamics of Parametric and In-Context Knowledge Utilization in Language Models <a href="https://www.arxiv.org/pdf/2510.02370">[pdf]</a></span><br>  
+  <span class="title">[2] How Training Data Shapes the Use of Parametric and In-Context Knowledge in Language Models <a href="https://www.arxiv.org/pdf/2510.02370">[pdf]</a></span><br>  
   <span class="content"><i>Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</i></span><br>  
   <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
 </div>
