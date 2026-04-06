@@ -74,9 +74,9 @@ comments: false
 <span class="second">- Haesung Pyun (Ph.D. Student at Seoul National University)</span>  
 <span class="second">- Jahyun Koo (Ph.D. Student at Seoul National University)</span>  
 <span class="second">- Minsung Kim (Ph.D. Student at Seoul National University)</span>  
-<span class="second">- Kyeongman Park (M.S. Student at Seoul National University)</span>   
-<span class="second">- Jiwon Moon (M.S. Student at Seoul National University)</span>  
-<span class="second">- Junseok Kim (B.S. Student at Seoul National University)</span>  
+<span class="second">- Kyeongman Park (Ph.D. Student at Seoul National University)</span>   
+<span class="second">- Jiwon Moon (Ph.D. Student at Seoul National University)</span>  
+<span class="second">- Junseok Kim (M.S. Student at Seoul National University)</span>  
 <span class="second">- Sangmook Lee (M.S. Student at Seoul National University)</span>  
 <span class="second">- Dohyung Kim (M.S. Student at Seoul National University)</span>  
 <br>
