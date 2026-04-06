@@ -30,6 +30,24 @@ comments: false
 
 ## Accepted Papers
 <div class="each_div">
+  <span class="title">[19] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning <a href="https://arxiv.org/pdf/2601.02970">[pdf]</a></span><br>  
+  <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2026.aclweb.org"><strong>ACL 2026 Findings</strong></a><br>  
+</div>
+
+<div class="each_div">
+  <span class="title">[18] How Training Data Shapes the Use of Parametric and In-Context Knowledge in Language Models <a href="https://www.arxiv.org/pdf/2510.02370">[pdf]</a></span><br>  
+  <span class="content"><i>Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</i></span><br>  
+  <a class="content" href="https://2026.aclweb.org"><strong>ACL 2026</strong></a><br>  
+</div>
+
+<div class="each_div">
+  <span class="title">[17] Rethinking Post-Unlearning Behavior of Large Vision-Language Models <a href="https://arxiv.org/abs/2506.02541">[pdf]</a></span><br>  
+  <span class="content"><i>Minsung Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://2026.aclweb.org"><strong>ACL 2026 Findings</strong></a><br>
+</div>
+
+<div class="each_div">
   <span class="title">[16] Erase or Hide? Suppressing Spurious Unlearning Neurons for Robust Unlearning <a href="https://arxiv.org/pdf/2509.22263">[pdf]</a></span><br>  
   <span class="content"><i><u>Nakyeong Yang</u>, Dong-kyum Kim, Jea Kwon, Minsung Kim, Kyomin Jung, Meeyoung Cha</i></span><br>  
   <a class="content" href="https://iclr.cc/"><strong>ICLR 2026</strong></a><br>
@@ -131,21 +149,3 @@ comments: false
 </div>
 
 
-
-## ArXiv
-
-<div class="each_div">
-  <span class="title">[3] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning <a href="https://arxiv.org/pdf/2601.02970">[pdf]</a></span><br>  
-  <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</i></span><br>  
-</div>
-
-<div class="each_div">
-  <span class="title">[2] How Training Data Shapes the Use of Parametric and In-Context Knowledge in Language Models <a href="https://www.arxiv.org/pdf/2510.02370">[pdf]</a></span><br>  
-  <span class="content"><i>Minsung Kim, Dong-kyum Kim, Jea Kwon, <u>Nakyeong Yang</u>, Kyomin Jung, Meeyoung Cha</i></span><br>  
-  <a class="content" href="https://www.mpi-sp.org/"><strong>Internship at Max Planck Institute for Security and Privacy (MPI-SP)</strong></a>
-</div>
-
-<div class="each_div">
-  <span class="title">[1] Rethinking Post-Unlearning Behavior of Large Vision-Language Models <a href="https://arxiv.org/abs/2506.02541">[pdf]</a></span><br>  
-  <span class="content"><i>Minsung Kim, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
-</div>
