@@ -36,7 +36,7 @@ comments: false
 
 <span class="first">**Ajou University**</span> <span style="font-size:60%">2015.03 ~ 2019.02</span>  
 <span class="second">- Bachelor’s in Electronic Business, Software, Business Administration</span>  
-<span class="second">- Ajou-people Award (College Representative)</span>  
+<span class="second">- Distinguished Graduate Award (College Representative Awardee)</span>  
 <br>
   
 
