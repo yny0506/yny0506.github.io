@@ -30,13 +30,13 @@ comments: false
 
 ## Accepted Papers
 <div class="each_div">
-  <span class="title">[20] Tool Selection Bias Amplifies in Multi-turn User–Agent Interactions </span><br>  
+  <span class="title">[21] Tool Selection Bias Amplifies in Multi-turn User–Agent Interactions </span><br>  
   <span class="content"><i><u>Nakyeong Yang</u>, Junseok Kim, Kyomin Jung</i></span><br>  
   <a class="content" href="https://agentwild-workshop.github.io/icml2026/"><strong>ICML 2026 AIWILD</strong></a><br>  
 </div>
 
 <div class="each_div">
-  <span class="title">[19] Personalized Privacy Control in LLMs via Attention Head Intervention </span><br>  
+  <span class="title">[20] Personalized Privacy Control in LLMs via Attention Head Intervention </span><br>  
   <span class="content"><i>Junseok Kim*, <u>Nakyeong Yang*</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://fdgm-workshop.github.io/FDGM_ICML2026/"><strong>ICML 2026 FoGen</strong></a><br>  
 </div>
