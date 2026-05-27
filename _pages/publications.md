@@ -30,6 +30,18 @@ comments: false
 
 ## Accepted Papers
 <div class="each_div">
+  <span class="title">[20] Tool Selection Bias Amplifies in Multi-turn User–Agent Interactions <a>[pdf]</a></span><br>  
+  <span class="content"><i><u>Nakyeong Yang</u>, Junseok Kim, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://agentwild-workshop.github.io/icml2026/"><strong>ICML 2026 AIWILD</strong></a><br>  
+</div>
+
+<div class="each_div">
+  <span class="title">[19] Personalized Privacy Control in LLMs via Attention Head Intervention <a>[pdf]</a></span><br>  
+  <span class="content"><i>Junseok Kim*, <u>Nakyeong Yang*</u>, Kyomin Jung</i></span><br>  
+  <a class="content" href="https://fdgm-workshop.github.io/FDGM_ICML2026/"><strong>ICML 2026 FoGen</strong></a><br>  
+</div>
+
+<div class="each_div">
   <span class="title">[19] Reliability-Aware Adaptive Self-Consistency for Efficient Sampling in LLM Reasoning <a href="https://arxiv.org/pdf/2601.02970">[pdf]</a></span><br>  
   <span class="content"><i>Junseok Kim, <u>Nakyeong Yang</u>, Kyungmin Min, Kyomin Jung</i></span><br>  
   <a class="content" href="https://2026.aclweb.org"><strong>ACL 2026 Findings</strong></a><br>  
@@ -147,5 +159,3 @@ comments: false
   <span class="content"><i>Taegwan Kang, Minwoo Lee, <u>Nakyeong Yang</u>, Kyomin Jung</i></span><br>  
   <a class="content" href="https://www.cikm2021.org/"><strong>CIKM 2021</strong></a><br>
 </div>
-
-
