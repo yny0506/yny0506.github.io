@@ -44,6 +44,14 @@ comments: false
   
 ### Professional Experiences
 
+<span class="first">**Max Planck Institute for Software Systems**</span> <span style="font-size:60%">2026.06 ~ 2028.06 (expected)</span>  
+<span class="second">- Postdoctoral Researcher</span>  
+<span class="second">- Working with Professor [Krishna P. Gummadi](https://www.mpg.de/13606025/software-systems-gummadi) and Professor [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
+
+<span class="first">**Seoul National University**</span> <span style="font-size:60%">2026.03 ~ 2026.06</span>  
+<span class="second">- Postdoctoral Researcher</span>  
+<span class="second">- Working with Professor [Kyomin Jung](http://milab.snu.ac.kr/kjung/index.html)</span>  
+
 <span class="first">**Max Planck Institute for Security and Privacy**</span> <span style="font-size:60%">2025.08 ~ 2025.10</span>  
 <span class="second">- Research Internship</span>  
 <span class="second">- Working with Professor [Meeyoung Cha](https://www.mpi-sp.org/cha)</span>  
