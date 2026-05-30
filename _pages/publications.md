@@ -37,7 +37,7 @@ comments: false
 
 <div class="each_div">
   <span class="title">[20] Personalized Privacy Control in LLMs via Attention Head Intervention </span><br>  
-  <span class="content"><i>Junseok Kim*, <u>Nakyeong Yang*</u>, Kyomin Jung</i></span><br>  
+  <span class="content"><i>Junseok Kim*, <u>Nakyeong Yang</u>*, Kyomin Jung</i></span><br>  
   <a class="content" href="https://fdgm-workshop.github.io/FDGM_ICML2026/"><strong>ICML 2026 FoGen</strong></a><br>  
 </div>
 
