@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Nakyeong Yang"
   avatar           : "/assets/mypic.jpg" # path of avatar image, e.g. "/assets/mypic.jpg"
-  bio              : "Ph. D. Candidate @ Seoul National University"
-  location         : "Seoul, Korea"
+  bio              : "Postdoc @ Max Planck Institute for Software Systems"
+  location         : "Kaiserslautern, Germany"
   email            :
   links:
     - label: "Email"
